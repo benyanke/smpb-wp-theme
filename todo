@@ -1,0 +1,13 @@
+##############
+# Theme todo #
+##############
+
+
+stylesheets to enqueue:
+
+	fonts/novecento-font/novecento-font.css
+	fonts/font-awesome.min.css
+	style.css
+	
+	
+fix page-title centering on main template
