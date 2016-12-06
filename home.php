@@ -38,13 +38,15 @@ get_header();
 							</div>
 						</div>
 
-          <?php if ( is_active_sidebar( 'homepage-widgets-lower' )) { ?>
+          <?php if (is_active_sidebar('homepage-widgets-lower')) {
+    ?>
 						<div class="container homepage-lower-widgets">
 							<div class="row">
-								<?php dynamic_sidebar( 'homepage-widgets-lower' ); ?>
+								<?php dynamic_sidebar('homepage-widgets-lower'); ?>
 							</div>
 						</div>
-          <?php }  ?>
+          <?php
+}  ?>
 
 						</div> <!-- .row -->
 					</div> <!-- .container -->

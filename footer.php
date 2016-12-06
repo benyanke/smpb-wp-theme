@@ -4,14 +4,16 @@
 				<div class="container">
 					<!-- <div class="row"> -->
 
-					<?php if ( is_active_sidebar( 'footer-sidebar' )) { ?>
+					<?php if (is_active_sidebar('footer-sidebar')) {
+    ?>
 						<div class="row">
 
-							<?php dynamic_sidebar( 'footer-sidebar' ); ?>
+							<?php dynamic_sidebar('footer-sidebar'); ?>
 
 						<!-- .row -->
 						</div>
-					<?php } ?>
+					<?php
+} ?>
 
 <!-- 					<p class="colophon">Copyright 2016 St. Mary of Pine Bluff. All right reserved</p> -->
 				</div><!-- .container -->

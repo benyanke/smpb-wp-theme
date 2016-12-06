@@ -52,7 +52,7 @@
 						<button class="menu-toggle"><i class="fa fa-bars"></i> Menu</button>
 
 						<!-- Navigation Menu -->
-						<?php	smpb_custom_main_nav_menu();	?>
+						<?php	smpb_custom_main_nav_menu();    ?>
 					</div>
 					<div class="mobile-navigation"></div>
 				</div>
