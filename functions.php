@@ -223,7 +223,7 @@ function smpb_staff_page()
 
 <table width="628" border="0">
   <tbody><tr>
-    <td width="195"><strong><img src="<?php echo get_template_directory_uri(); ?>/images/Fr. Rick.jpg" width="194" height="202" alt="Fr. Rick Photo"></strong></td>
+    <td width="195"><strong><img src="<?php echo get_template_directory_uri(); ?>/images/frheilman_pic.jpg" width="195" height="243" alt="Fr. Rick Photo"></strong></td>
     <td width="423"><p><strong>The Very Reverend Richard Heilman ("Fr. Rick")<br>
     </strong>Pastor of St. Mary of Pine Bluff, St. Ignatius in Mt. Horeb, and Holy Redeemer in Perry.<br>
     </p>
@@ -318,7 +318,7 @@ function smpb_staff_page()
   </table>
   <p>&nbsp;</p>
 </center>
-<center>
+<!-- <center>
   <table width="628" border="0">
     <tr>
       <td width="195"><img src="<?php echo get_template_directory_uri(); ?>/images/LINS, Marie.jpg" width="194" height="245"></td>
@@ -332,7 +332,7 @@ function smpb_staff_page()
         <p>&nbsp;</p></td>
     </tr>
   </table>
-</center>
+</center> -->
 <p>&nbsp;</p>
 <center>
   <table width="628" border="0">

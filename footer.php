@@ -16,6 +16,9 @@
 } ?>
 
 <!-- 					<p class="colophon">Copyright 2016 St. Mary of Pine Bluff. All right reserved</p> -->
+					<?php if(! is_user_logged_in()) { ?>
+ 					<p class="colophon footerloginlink"><a href="<?php echo admin_url(); ?>">Login</a></p>
+					<?php } ?>
 				</div><!-- .container -->
 			</footer> <!-- .site-footer -->
 

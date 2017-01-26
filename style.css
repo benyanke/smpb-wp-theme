@@ -1511,14 +1511,14 @@ ul.bullet {
       ul.bullet li a:hover {
         color: #8f7655; }
 
-.contact-form input:not([type="submit"]), .contact-form textarea {
+.wpcf7-form input:not([type="submit"]), .wpcf7-form textarea {
   margin-bottom: 20px;
   width: 100%;
   background: #785237;
   padding: 15px;
   color: #dcc2a0;
   box-shadow: inset 0 2px 2px rgba(0, 0, 0, 0.2); }
-.contact-form textarea {
+.wpcf7-form textarea {
   min-height: 150px; }
 
 
@@ -1909,4 +1909,11 @@ li.wpfc_grid_image img{
 
 h3.wpfc_grid_title a {
 	text-decoration: none;
+}
+
+
+/* Footer Login Link Styling */
+
+.footerloginlink {
+	margin-top: 40px;
 }
