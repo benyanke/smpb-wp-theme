@@ -189,9 +189,9 @@ function imageRows_smpb()
     $rowImages[] = array("Roman Catholic Man", "http://www.romancatholicman.com/", "RomanCatholicMan2.jpg");
     $rowImages[] = array("Holy League", "http://holyleague.com/", "HolyLeague.jpg");
     $rowImages[] = array("Miracle of Life Rosary Garden", "http://www.rosarygarden.org/", "RosaryGarden2.jpg");
-    $rowImages[] = array("Knights of Divine Mercy", "http://www.knightsofdivinemercy.com/", "KDM2.jpg");
-    $rowImages[] = array("Ladies of Divine Mercy", "https://www.facebook.com/groups/LadiesofDivineMercy/", "LDMlogo.jpg");
-    $rowImages[] = array("Knights of Columbus", "https://www.kofcknights.org/StateCouncilSite/?CN=US&ST=WI", "KofClogo.jpg"); ?>
+    $rowImages[] = array("Knights of Divine Mercy", "https://www.facebook.com/KnightsofDivineMercy", "KDM2.jpg");
+    $rowImages[] = array("Ladies of Divine Mercy", "https://www.facebook.com/groups/ldmmadison", "LDMlogo.jpg");
+    $rowImages[] = array("Knights of Columbus", "https://www.facebook.com/groups/895425827157015", "KofClogo.jpg"); ?>
 <div class="row">
 
 						<?php foreach ($rowImages as $row) {
@@ -338,8 +338,8 @@ function smpb_staff_page()
   <table width="628" border="0">
     <tr>
       <td width="195"><img src="<?php echo get_template_directory_uri(); ?>/images/SILVA, Raul & Veronica.jpg" width="195" height="250"></td>
-      <td width="423"><p><strong>Raul Silva<br>
-        </strong>Custodian</p>
+      <td width="423"><p><strong>Raul and Veronica Silva<br>
+        </strong>Custodians</p>
         <p>&nbsp;</p>
         <p><br>
         </p>
