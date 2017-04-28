@@ -1917,3 +1917,11 @@ h3.wpfc_grid_title a {
 .footerloginlink {
 	margin-top: 40px;
 }
+
+
+/* Main Homepage tweaks */
+
+.fullwidth-block {
+  padding-bottom: 0px;
+  padding-top: 0px;
+}

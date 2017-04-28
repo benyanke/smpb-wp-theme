@@ -162,11 +162,6 @@ function getSlider_smpb()
 							<div class="slide-content">
 
 								<br>
-								<!--
-                                <a href="<?php echo get_permalink(get_page_by_path('mass-times')) ?>" class="button">Mass Times</a>
-                                <br><br>
-								<a href="<?php echo get_permalink(get_page_by_path('confession')) ?>" class="button">Confession</a>
-                                -->
 							</div>
 						</div>
 					</li>
