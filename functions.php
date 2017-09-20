@@ -219,8 +219,8 @@ function smpb_staff_page()
 <table width="628" border="0">
   <tbody><tr>
     <td width="195"><strong><img src="<?php echo get_template_directory_uri(); ?>/images/frheilman_pic.jpg" width="195" height="243" alt="Fr. Rick Photo"></strong></td>
-    <td width="423"><p><strong>The Very Reverend Richard Heilman ("Fr. Rick")<br>
-    </strong>Pastor of St. Mary of Pine Bluff, St. Ignatius in Mt. Horeb, and Holy Redeemer in Perry.<br>
+    <td width="423"><p><strong>The Very Reverend Richard Heilman<br>
+    </strong>Pastor of St. Mary of Pine Bluff<br />
     </p>
       <p>rheilman@churchmilitant.com<br>
         In case of emergency: (608) 798-4644
