@@ -249,6 +249,7 @@ function smpb_staff_page()
   </tr>
 </tbody></table>
 </center>
+<br /><br />
 
 <div align="center">
   <table width="628" border="0">
@@ -260,11 +261,12 @@ function smpb_staff_page()
         <p>&nbsp;</p>
         <p><br>
         </p>
-<p>&nbsp;</p></td>
+<p>&nbsp;</p>
+</td>
       </tr>
   </tbody></table>
 </div>
-
+<br /><br />
 <center>
   <table width="628" border="0">
     <tbody><tr>
