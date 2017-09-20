@@ -1,0 +1,3 @@
+This directory is based in the site directory for /var/www/stmarypb.com, however, it's also bindFS mounted to /var/www/music.stmarypb.com's theme dir.
+
+If you need to make theme file changes, do so on the main site's directory, and they will be instantly reflected on the music site as well.
