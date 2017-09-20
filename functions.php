@@ -281,6 +281,7 @@ function smpb_staff_page()
   </tbody></table>
   <p>&nbsp;</p>
 </center>
+<!--
 <center>
   <table width="628" border="0">
     <tr>
@@ -297,12 +298,13 @@ function smpb_staff_page()
   </table>
 </center>
 <p>&nbsp;</p>
+-->
 <center>
   <table width="628" border="0">
     <tr>
       <td width="195"><img src="<?php echo get_template_directory_uri(); ?>/images/PTAK, BETH; (Staff)171.jpg" width="195" height="247"></td>
       <td width="423"><p><strong>Beth Ptak<br>
-        </strong>Director of Children's Religious Education, Grades 1-5<br>
+        </strong>Director of Children's Religious Education<br>
         </p>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
