@@ -646,7 +646,7 @@ form input[type="submit"], form button, form input[type="reset"] {
 
   .col-sm-offset-10 {
     margin-left: 83.3333333333%; }
-
+v
   .col-sm-offset-11 {
     margin-left: 91.6666666667%; }
 
@@ -1932,3 +1932,9 @@ h3.wpfc_grid_title a {
   padding-top: 50px;
   
 } 
+
+/* custom style tweak for event plugin to hide LI dots */
+
+.eo-event-meta, .eo-events-shortcode li {
+  list-style: none;
+}
