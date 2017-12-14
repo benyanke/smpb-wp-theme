@@ -23,6 +23,7 @@ get_header();
 						<?php imageRows_smpb(); ?>
 
 						</div> <!-- .row -->
+						<!-- <img src="https://www.stmarypb.com/wp-content/themes/smpb-custom/images/weshare.png" style="max-height: 100px;"/> -->
 
 					<!-- End image rows -->
 
